@@ -827,7 +827,6 @@ function Library:CreateWindow(windowname,windowinfo)
     return PageYep
 end
 
-local Library = {}
 local activeNotifications = {}
 local guiRunning = true
 
